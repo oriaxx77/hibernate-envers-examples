@@ -1,0 +1,31 @@
+# Gradle
+build/
+gradle/
+gradlew
+gradlew.bat
+.gradle/
+.DS_Store
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+ 
+# Intellij
+.idea/
+*.iml
+*.iws
+ 
+# Mac
+.DS_Store
+ 
+# Maven
+log/
+target/
+
+# Project specific
+# Local Derby
+data/
+derby.log
+SampleDB/
